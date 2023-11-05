@@ -21,3 +21,15 @@ Describe the use and purpose of functions and recursion.
 Apply classes and think in terms of objects, experiencing Data Abstraction at an introductory level.
 Describe the social, ethical, and security implications of the programming projects.
 Describe how parallel programming impacts software design.
+
+
+Major Topics:
+Introduction and overview (2 hours)
+I/O, Conditionals, Repetition, Arrays (6 hours)
+Functions and Arguments (4 hours)
+Introduction to Classes, Constructors, Separate Files (4 hours)
+Introduction to Pointers and Dynamic Memory (8 hours)
+Introduction to Linear Linked Lists (4 hours)
+Recursion (4 hours)
+File I/O (4 hours)
+Arrays with Structured Elements (4 hours)
